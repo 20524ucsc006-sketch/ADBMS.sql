@@ -1,0 +1,2 @@
+DELETE FROM Student1
+WHERE SID = 101;
