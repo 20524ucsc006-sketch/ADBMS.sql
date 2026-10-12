@@ -1,1 +1,4 @@
-SAVEPOINT savepoint_name;
+BEGIN
+    SAVEPOINT s1;
+END;
+/
